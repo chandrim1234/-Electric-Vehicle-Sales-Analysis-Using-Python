@@ -7,9 +7,10 @@ Motors is an automotive giant from the USA specializing in electric vehicles (EV
 I conducted an in-depth analysis of electric vehicle (EV) sales data for Motors, focusing on sales by state and manufacturer for 2-wheelers and 4-wheelers. Using key metrics like penetration rate and CAGR, I identified market trends and growth patterns, helping to inform the company's expansion strategy in India
 
 ⚙️Tools Used
-Programming Language: Python
 
-IDE: Google Collab
+- Programming Language: Python
+
+- IDE: Google Collab
 
 🔍Preliminary Research Questions
 - List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
