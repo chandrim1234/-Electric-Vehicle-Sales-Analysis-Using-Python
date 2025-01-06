@@ -8,6 +8,7 @@ I conducted an in-depth analysis of electric vehicle (EV) sales data for Motors,
 
 ⚙️Tools Used
 Programming Language: Python
+
 IDE: Google Collab
 
 🔍Preliminary Research Questions
